@@ -1,6 +1,6 @@
 # PRIVATE
-# src*
-# server*
+src*
+server*
 # Windows template
 Thumbs.db
 Thumbs.db:encryptable
