@@ -10,6 +10,7 @@
 ![alt text](https://cdn11.bigcommerce.com/s-sq9zkarfah/products/125944/images/119213/Skull-Revolver-Barrel-Bullet-Vinyl-Decal-Sticker__32140.1507851515.500.750.jpg?c=2)
 
 <hr />
+
 ```sh
 .
 │   .editorconfig                       # Editor config file
@@ -35,6 +36,7 @@
 │
 └───server                             # Back End   PRIVATE
 ```
+
 <hr />
 
 ## Installation Scripts
@@ -64,7 +66,7 @@ This technology guarantees 100% fairness of game result. With this technology, i
 <br />
 
 [Centos](https://www.centos.org/),
-[MongoDB](https://www.mongodb.com/,
+[MongoDB](https://www.mongodb.com/),
 [Redis](https://redis.io/),
 [MySQL](https://www.mysql.com/),
 [PostgreSQL](https://www.postgresql.org/),
